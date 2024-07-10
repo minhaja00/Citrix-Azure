@@ -1,3 +1,5 @@
-# Citrix-Azure
+# Citrix DAAS with Azure
 Citrix Virtual Apps and Desktop in Azure
 Objective of this project is to setup Citrix Virtual apps and desktop in Azure Cloud.
+The Citrix Cloud acts as a control layer and Azure Cloud as resource layer.
+
